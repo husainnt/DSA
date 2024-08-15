@@ -1,0 +1,2480 @@
+Account Number: 3119
+Amount: 0
+Type: 
+
+Balance: 2.4465e+006
+Account Number: 3218
+Amount: 0
+Type: 
+
+Balance: 3.692e+006
+Account Number: 3178
+Amount: 0
+Type: 
+
+Balance: 4.0885e+006
+Account Number: 3220
+Amount: 0
+Type: 
+
+Balance: 1.6785e+006
+Account Number: 3186
+Amount: 0
+Type: 
+
+Balance: 962000
+Account Number: 3333
+Amount: 0
+Type: 
+
+Balance: 129500
+Account Number: 3206
+Amount: 0
+Type: 
+
+Balance: 2.298e+006
+Account Number: 3443
+Amount: 0
+Type: 
+
+Balance: 1.415e+006
+Account Number: 3061
+Amount: 0
+Type: 
+
+Balance: 3.8555e+006
+Account Number: 3205
+Amount: 0
+Type: 
+
+Balance: 2.5545e+006
+Account Number: 3158
+Amount: 0
+Type: 
+
+Balance: 850500
+Account Number: 3306
+Amount: 0
+Type: 
+
+Balance: 3.5335e+006
+Account Number: 3353
+Amount: 0
+Type: 
+
+Balance: 2.592e+006
+Account Number: 3397
+Amount: 0
+Type: 
+
+Balance: 284000
+Account Number: 3315
+Amount: 0
+Type: 
+
+Balance: 2.4775e+006
+Account Number: 3130
+Amount: 0
+Type: 
+
+Balance: 1.146e+006
+Account Number: 3493
+Amount: 0
+Type: 
+
+Balance: 1.8645e+006
+Account Number: 3365
+Amount: 0
+Type: 
+
+Balance: 1.9705e+006
+Account Number: 3360
+Amount: 0
+Type: 
+
+Balance: 3.863e+006
+Account Number: 3188
+Amount: 0
+Type: 
+
+Balance: 3.95e+006
+Account Number: 3474
+Amount: 0
+Type: 
+
+Balance: 579500
+Account Number: 3477
+Amount: 0
+Type: 
+
+Balance: 1.037e+006
+Account Number: 3350
+Amount: 0
+Type: 
+
+Balance: 839500
+Account Number: 3424
+Amount: 0
+Type: 
+
+Balance: 3.6115e+006
+Account Number: 3345
+Amount: 0
+Type: 
+
+Balance: 3.9075e+006
+Account Number: 3433
+Amount: 0
+Type: 
+
+Balance: 3.8635e+006
+Account Number: 3446
+Amount: 0
+Type: 
+
+Balance: 1.1635e+006
+Account Number: 3071
+Amount: 0
+Type: 
+
+Balance: 1.774e+006
+Account Number: 3259
+Amount: 0
+Type: 
+
+Balance: 3.8025e+006
+Account Number: 3378
+Amount: 0
+Type: 
+
+Balance: 399500
+Account Number: 3485
+Amount: 0
+Type: 
+
+Balance: 4.441e+006
+Account Number: 3432
+Amount: 0
+Type: 
+
+Balance: 1.928e+006
+Account Number: 3303
+Amount: 0
+Type: 
+
+Balance: 2.3405e+006
+Account Number: 3278
+Amount: 0
+Type: 
+
+Balance: 4.12e+006
+Account Number: 3214
+Amount: 0
+Type: 
+
+Balance: 600000
+Account Number: 3195
+Amount: 0
+Type: 
+
+Balance: 1.847e+006
+Account Number: 3287
+Amount: 0
+Type: 
+
+Balance: 623500
+Account Number: 3156
+Amount: 0
+Type: 
+
+Balance: 1.2645e+006
+Account Number: 3208
+Amount: 0
+Type: 
+
+Balance: 760000
+Account Number: 3144
+Amount: 0
+Type: 
+
+Balance: 292500
+Account Number: 3123
+Amount: 0
+Type: 
+
+Balance: 4.7515e+006
+Account Number: 3384
+Amount: 0
+Type: 
+
+Balance: 2.115e+006
+Account Number: 3355
+Amount: 0
+Type: 
+
+Balance: 1.299e+006
+Account Number: 3052
+Amount: 0
+Type: 
+
+Balance: 245500
+Account Number: 3289
+Amount: 0
+Type: 
+
+Balance: 2.972e+006
+Account Number: 3395
+Amount: 0
+Type: 
+
+Balance: 639000
+Account Number: 3230
+Amount: 0
+Type: 
+
+Balance: 1.2415e+006
+Account Number: 3058
+Amount: 0
+Type: 
+
+Balance: 863000
+Account Number: 3394
+Amount: 0
+Type: 
+
+Balance: 4.732e+006
+Account Number: 3296
+Amount: 0
+Type: 
+
+Balance: 3.5515e+006
+Account Number: 3325
+Amount: 0
+Type: 
+
+Balance: 2.128e+006
+Account Number: 3246
+Amount: 0
+Type: 
+
+Balance: 4.2215e+006
+Account Number: 3120
+Amount: 0
+Type: 
+
+Balance: 778000
+Account Number: 3105
+Amount: 0
+Type: 
+
+Balance: 827500
+Account Number: 3455
+Amount: 0
+Type: 
+
+Balance: 4.626e+006
+Account Number: 3417
+Amount: 0
+Type: 
+
+Balance: 97500
+Account Number: 3275
+Amount: 0
+Type: 
+
+Balance: 2.042e+006
+Account Number: 3069
+Amount: 0
+Type: 
+
+Balance: 921000
+Account Number: 3090
+Amount: 0
+Type: 
+
+Balance: 2.787e+006
+Account Number: 3450
+Amount: 0
+Type: 
+
+Balance: 4.305e+006
+Account Number: 3508
+Amount: 0
+Type: 
+
+Balance: 4.197e+006
+Account Number: 3317
+Amount: 0
+Type: 
+
+Balance: 598000
+Account Number: 3496
+Amount: 0
+Type: 
+
+Balance: 2.5275e+006
+Account Number: 3321
+Amount: 0
+Type: 
+
+Balance: 2.093e+006
+Account Number: 3177
+Amount: 0
+Type: 
+
+Balance: 3.6955e+006
+Account Number: 3134
+Amount: 0
+Type: 
+
+Balance: 1.323e+006
+Account Number: 3367
+Amount: 0
+Type: 
+
+Balance: 3.4045e+006
+Account Number: 3135
+Amount: 0
+Type: 
+
+Balance: 4.238e+006
+Account Number: 3399
+Amount: 0
+Type: 
+
+Balance: 1.3055e+006
+Account Number: 3111
+Amount: 0
+Type: 
+
+Balance: 2.0105e+006
+Account Number: 3084
+Amount: 0
+Type: 
+
+Balance: 4.3725e+006
+Account Number: 3410
+Amount: 0
+Type: 
+
+Balance: 2.6955e+006
+Account Number: 3451
+Amount: 0
+Type: 
+
+Balance: 1.3305e+006
+Account Number: 3502
+Amount: 0
+Type: 
+
+Balance: 1.456e+006
+Account Number: 3377
+Amount: 0
+Type: 
+
+Balance: 3.3165e+006
+Account Number: 3266
+Amount: 0
+Type: 
+
+Balance: 620000
+Account Number: 3235
+Amount: 0
+Type: 
+
+Balance: 3.935e+006
+Account Number: 3320
+Amount: 0
+Type: 
+
+Balance: 4.5705e+006
+Account Number: 3097
+Amount: 0
+Type: 
+
+Balance: 191500
+Account Number: 3341
+Amount: 0
+Type: 
+
+Balance: 3.117e+006
+Account Number: 3078
+Amount: 0
+Type: 
+
+Balance: 769000
+Account Number: 3221
+Amount: 0
+Type: 
+
+Balance: 2.2825e+006
+Account Number: 3453
+Amount: 0
+Type: 
+
+Balance: 4.746e+006
+Account Number: 3456
+Amount: 0
+Type: 
+
+Balance: 4.9255e+006
+Account Number: 3401
+Amount: 0
+Type: 
+
+Balance: 4.7865e+006
+Account Number: 3468
+Amount: 0
+Type: 
+
+Balance: 1.696e+006
+Account Number: 3369
+Amount: 0
+Type: 
+
+Balance: 3.979e+006
+Account Number: 3440
+Amount: 0
+Type: 
+
+Balance: 4.425e+006
+Account Number: 3330
+Amount: 0
+Type: 
+
+Balance: 1.838e+006
+Account Number: 3459
+Amount: 0
+Type: 
+
+Balance: 1.2625e+006
+Account Number: 3239
+Amount: 0
+Type: 
+
+Balance: 2.8525e+006
+Account Number: 3386
+Amount: 0
+Type: 
+
+Balance: 1.573e+006
+Account Number: 3163
+Amount: 0
+Type: 
+
+Balance: 4.779e+006
+Account Number: 3426
+Amount: 0
+Type: 
+
+Balance: 487000
+Account Number: 3478
+Amount: 0
+Type: 
+
+Balance: 198000
+Account Number: 3169
+Amount: 0
+Type: 
+
+Balance: 3.2195e+006
+Account Number: 3198
+Amount: 0
+Type: 
+
+Balance: 4.232e+006
+Account Number: 3251
+Amount: 0
+Type: 
+
+Balance: 3.244e+006
+Account Number: 3153
+Amount: 0
+Type: 
+
+Balance: 4.346e+006
+Account Number: 3119
+Amount: 0
+Type: 
+
+Balance: 2.4465e+006
+Account Number: 3218
+Amount: 0
+Type: 
+
+Balance: 3.692e+006
+Account Number: 3178
+Amount: 0
+Type: 
+
+Balance: 4.0885e+006
+Account Number: 3220
+Amount: 0
+Type: 
+
+Balance: 1.6785e+006
+Account Number: 3186
+Amount: 0
+Type: 
+
+Balance: 962000
+Account Number: 3333
+Amount: 0
+Type: 
+
+Balance: 129500
+Account Number: 3206
+Amount: 0
+Type: 
+
+Balance: 2.298e+006
+Account Number: 3443
+Amount: 0
+Type: 
+
+Balance: 1.415e+006
+Account Number: 3061
+Amount: 0
+Type: 
+
+Balance: 3.8555e+006
+Account Number: 3205
+Amount: 0
+Type: 
+
+Balance: 2.5545e+006
+Account Number: 3158
+Amount: 0
+Type: 
+
+Balance: 850500
+Account Number: 3306
+Amount: 0
+Type: 
+
+Balance: 3.5335e+006
+Account Number: 3353
+Amount: 0
+Type: 
+
+Balance: 2.592e+006
+Account Number: 3397
+Amount: 0
+Type: 
+
+Balance: 284000
+Account Number: 3315
+Amount: 0
+Type: 
+
+Balance: 2.4775e+006
+Account Number: 3130
+Amount: 0
+Type: 
+
+Balance: 1.146e+006
+Account Number: 3493
+Amount: 0
+Type: 
+
+Balance: 1.8645e+006
+Account Number: 3365
+Amount: 0
+Type: 
+
+Balance: 1.9705e+006
+Account Number: 3360
+Amount: 0
+Type: 
+
+Balance: 3.863e+006
+Account Number: 3188
+Amount: 0
+Type: 
+
+Balance: 3.95e+006
+Account Number: 3474
+Amount: 0
+Type: 
+
+Balance: 579500
+Account Number: 3477
+Amount: 0
+Type: 
+
+Balance: 1.037e+006
+Account Number: 3350
+Amount: 0
+Type: 
+
+Balance: 839500
+Account Number: 3424
+Amount: 0
+Type: 
+
+Balance: 3.6115e+006
+Account Number: 3345
+Amount: 0
+Type: 
+
+Balance: 3.9075e+006
+Account Number: 3433
+Amount: 0
+Type: 
+
+Balance: 3.8635e+006
+Account Number: 3446
+Amount: 0
+Type: 
+
+Balance: 1.1635e+006
+Account Number: 3071
+Amount: 0
+Type: 
+
+Balance: 1.774e+006
+Account Number: 3259
+Amount: 0
+Type: 
+
+Balance: 3.8025e+006
+Account Number: 3378
+Amount: 0
+Type: 
+
+Balance: 399500
+Account Number: 3485
+Amount: 0
+Type: 
+
+Balance: 4.441e+006
+Account Number: 3432
+Amount: 0
+Type: 
+
+Balance: 1.928e+006
+Account Number: 3303
+Amount: 0
+Type: 
+
+Balance: 2.3405e+006
+Account Number: 3278
+Amount: 0
+Type: 
+
+Balance: 4.12e+006
+Account Number: 3214
+Amount: 0
+Type: 
+
+Balance: 600000
+Account Number: 3195
+Amount: 0
+Type: 
+
+Balance: 1.847e+006
+Account Number: 3287
+Amount: 0
+Type: 
+
+Balance: 623500
+Account Number: 3156
+Amount: 0
+Type: 
+
+Balance: 1.2645e+006
+Account Number: 3208
+Amount: 0
+Type: 
+
+Balance: 760000
+Account Number: 3144
+Amount: 0
+Type: 
+
+Balance: 292500
+Account Number: 3123
+Amount: 0
+Type: 
+
+Balance: 4.7515e+006
+Account Number: 3384
+Amount: 0
+Type: 
+
+Balance: 2.115e+006
+Account Number: 3355
+Amount: 0
+Type: 
+
+Balance: 1.299e+006
+Account Number: 3052
+Amount: 0
+Type: 
+
+Balance: 245500
+Account Number: 3289
+Amount: 0
+Type: 
+
+Balance: 2.972e+006
+Account Number: 3395
+Amount: 0
+Type: 
+
+Balance: 639000
+Account Number: 3230
+Amount: 0
+Type: 
+
+Balance: 1.2415e+006
+Account Number: 3058
+Amount: 0
+Type: 
+
+Balance: 863000
+Account Number: 3394
+Amount: 0
+Type: 
+
+Balance: 4.732e+006
+Account Number: 3296
+Amount: 0
+Type: 
+
+Balance: 3.5515e+006
+Account Number: 3325
+Amount: 0
+Type: 
+
+Balance: 2.128e+006
+Account Number: 3246
+Amount: 0
+Type: 
+
+Balance: 4.2215e+006
+Account Number: 3120
+Amount: 0
+Type: 
+
+Balance: 778000
+Account Number: 3105
+Amount: 0
+Type: 
+
+Balance: 827500
+Account Number: 3455
+Amount: 0
+Type: 
+
+Balance: 4.626e+006
+Account Number: 3417
+Amount: 0
+Type: 
+
+Balance: 97500
+Account Number: 3275
+Amount: 0
+Type: 
+
+Balance: 2.042e+006
+Account Number: 3069
+Amount: 0
+Type: 
+
+Balance: 921000
+Account Number: 3090
+Amount: 0
+Type: 
+
+Balance: 2.787e+006
+Account Number: 3450
+Amount: 0
+Type: 
+
+Balance: 4.305e+006
+Account Number: 3508
+Amount: 0
+Type: 
+
+Balance: 4.197e+006
+Account Number: 3317
+Amount: 0
+Type: 
+
+Balance: 598000
+Account Number: 3496
+Amount: 0
+Type: 
+
+Balance: 2.5275e+006
+Account Number: 3321
+Amount: 0
+Type: 
+
+Balance: 2.093e+006
+Account Number: 3177
+Amount: 0
+Type: 
+
+Balance: 3.6955e+006
+Account Number: 3134
+Amount: 0
+Type: 
+
+Balance: 1.323e+006
+Account Number: 3367
+Amount: 0
+Type: 
+
+Balance: 3.4045e+006
+Account Number: 3135
+Amount: 0
+Type: 
+
+Balance: 4.238e+006
+Account Number: 3399
+Amount: 0
+Type: 
+
+Balance: 1.3055e+006
+Account Number: 3111
+Amount: 0
+Type: 
+
+Balance: 2.0105e+006
+Account Number: 3084
+Amount: 0
+Type: 
+
+Balance: 4.3725e+006
+Account Number: 3410
+Amount: 0
+Type: 
+
+Balance: 2.6955e+006
+Account Number: 3451
+Amount: 0
+Type: 
+
+Balance: 1.3305e+006
+Account Number: 3502
+Amount: 0
+Type: 
+
+Balance: 1.456e+006
+Account Number: 3377
+Amount: 0
+Type: 
+
+Balance: 3.3165e+006
+Account Number: 3266
+Amount: 0
+Type: 
+
+Balance: 620000
+Account Number: 3235
+Amount: 0
+Type: 
+
+Balance: 3.935e+006
+Account Number: 3320
+Amount: 0
+Type: 
+
+Balance: 4.5705e+006
+Account Number: 3097
+Amount: 0
+Type: 
+
+Balance: 191500
+Account Number: 3341
+Amount: 0
+Type: 
+
+Balance: 3.117e+006
+Account Number: 3078
+Amount: 0
+Type: 
+
+Balance: 769000
+Account Number: 3221
+Amount: 0
+Type: 
+
+Balance: 2.2825e+006
+Account Number: 3453
+Amount: 0
+Type: 
+
+Balance: 4.746e+006
+Account Number: 3456
+Amount: 0
+Type: 
+
+Balance: 4.9255e+006
+Account Number: 3401
+Amount: 0
+Type: 
+
+Balance: 4.7865e+006
+Account Number: 3468
+Amount: 0
+Type: 
+
+Balance: 1.696e+006
+Account Number: 3369
+Amount: 0
+Type: 
+
+Balance: 3.979e+006
+Account Number: 3440
+Amount: 0
+Type: 
+
+Balance: 4.425e+006
+Account Number: 3330
+Amount: 0
+Type: 
+
+Balance: 1.838e+006
+Account Number: 3459
+Amount: 0
+Type: 
+
+Balance: 1.2625e+006
+Account Number: 3239
+Amount: 0
+Type: 
+
+Balance: 2.8525e+006
+Account Number: 3386
+Amount: 0
+Type: 
+
+Balance: 1.573e+006
+Account Number: 3163
+Amount: 0
+Type: 
+
+Balance: 4.779e+006
+Account Number: 3426
+Amount: 0
+Type: 
+
+Balance: 487000
+Account Number: 3478
+Amount: 0
+Type: 
+
+Balance: 198000
+Account Number: 3169
+Amount: 0
+Type: 
+
+Balance: 3.2195e+006
+Account Number: 3198
+Amount: 0
+Type: 
+
+Balance: 4.232e+006
+Account Number: 3251
+Amount: 0
+Type: 
+
+Balance: 3.244e+006
+Account Number: 3153
+Amount: 0
+Type: 
+
+Balance: 4.346e+006
+Account Number: 3119
+Amount: 0
+Type: 
+
+Balance: 2.4465e+006
+Account Number: 3218
+Amount: 0
+Type: 
+
+Balance: 3.692e+006
+Account Number: 3178
+Amount: 0
+Type: 
+
+Balance: 4.0885e+006
+Account Number: 3220
+Amount: 0
+Type: 
+
+Balance: 1.6785e+006
+Account Number: 3186
+Amount: 0
+Type: 
+
+Balance: 962000
+Account Number: 3333
+Amount: 0
+Type: 
+
+Balance: 129500
+Account Number: 3206
+Amount: 0
+Type: 
+
+Balance: 2.298e+006
+Account Number: 3443
+Amount: 0
+Type: 
+
+Balance: 1.415e+006
+Account Number: 3061
+Amount: 0
+Type: 
+
+Balance: 3.8555e+006
+Account Number: 3205
+Amount: 0
+Type: 
+
+Balance: 2.5545e+006
+Account Number: 3158
+Amount: 0
+Type: 
+
+Balance: 850500
+Account Number: 3306
+Amount: 0
+Type: 
+
+Balance: 3.5335e+006
+Account Number: 3353
+Amount: 0
+Type: 
+
+Balance: 2.592e+006
+Account Number: 3397
+Amount: 0
+Type: 
+
+Balance: 284000
+Account Number: 3315
+Amount: 0
+Type: 
+
+Balance: 2.4775e+006
+Account Number: 3130
+Amount: 0
+Type: 
+
+Balance: 1.146e+006
+Account Number: 3493
+Amount: 0
+Type: 
+
+Balance: 1.8645e+006
+Account Number: 3365
+Amount: 0
+Type: 
+
+Balance: 1.9705e+006
+Account Number: 3360
+Amount: 0
+Type: 
+
+Balance: 3.863e+006
+Account Number: 3188
+Amount: 0
+Type: 
+
+Balance: 3.95e+006
+Account Number: 3474
+Amount: 0
+Type: 
+
+Balance: 579500
+Account Number: 3477
+Amount: 0
+Type: 
+
+Balance: 1.037e+006
+Account Number: 3350
+Amount: 0
+Type: 
+
+Balance: 839500
+Account Number: 3424
+Amount: 0
+Type: 
+
+Balance: 3.6115e+006
+Account Number: 3345
+Amount: 0
+Type: 
+
+Balance: 3.9075e+006
+Account Number: 3433
+Amount: 0
+Type: 
+
+Balance: 3.8635e+006
+Account Number: 3446
+Amount: 0
+Type: 
+
+Balance: 1.1635e+006
+Account Number: 3071
+Amount: 0
+Type: 
+
+Balance: 1.774e+006
+Account Number: 3259
+Amount: 0
+Type: 
+
+Balance: 3.8025e+006
+Account Number: 3378
+Amount: 0
+Type: 
+
+Balance: 399500
+Account Number: 3485
+Amount: 0
+Type: 
+
+Balance: 4.441e+006
+Account Number: 3432
+Amount: 0
+Type: 
+
+Balance: 1.928e+006
+Account Number: 3303
+Amount: 0
+Type: 
+
+Balance: 2.3405e+006
+Account Number: 3278
+Amount: 0
+Type: 
+
+Balance: 4.12e+006
+Account Number: 3214
+Amount: 0
+Type: 
+
+Balance: 600000
+Account Number: 3195
+Amount: 0
+Type: 
+
+Balance: 1.847e+006
+Account Number: 3287
+Amount: 0
+Type: 
+
+Balance: 623500
+Account Number: 3156
+Amount: 0
+Type: 
+
+Balance: 1.2645e+006
+Account Number: 3208
+Amount: 0
+Type: 
+
+Balance: 760000
+Account Number: 3144
+Amount: 0
+Type: 
+
+Balance: 292500
+Account Number: 3123
+Amount: 0
+Type: 
+
+Balance: 4.7515e+006
+Account Number: 3384
+Amount: 0
+Type: 
+
+Balance: 2.115e+006
+Account Number: 3355
+Amount: 0
+Type: 
+
+Balance: 1.299e+006
+Account Number: 3052
+Amount: 0
+Type: 
+
+Balance: 245500
+Account Number: 3289
+Amount: 0
+Type: 
+
+Balance: 2.972e+006
+Account Number: 3395
+Amount: 0
+Type: 
+
+Balance: 639000
+Account Number: 3230
+Amount: 0
+Type: 
+
+Balance: 1.2415e+006
+Account Number: 3058
+Amount: 0
+Type: 
+
+Balance: 863000
+Account Number: 3394
+Amount: 0
+Type: 
+
+Balance: 4.732e+006
+Account Number: 3296
+Amount: 0
+Type: 
+
+Balance: 3.5515e+006
+Account Number: 3325
+Amount: 0
+Type: 
+
+Balance: 2.128e+006
+Account Number: 3246
+Amount: 0
+Type: 
+
+Balance: 4.2215e+006
+Account Number: 3120
+Amount: 0
+Type: 
+
+Balance: 778000
+Account Number: 3105
+Amount: 0
+Type: 
+
+Balance: 827500
+Account Number: 3455
+Amount: 0
+Type: 
+
+Balance: 4.626e+006
+Account Number: 3417
+Amount: 0
+Type: 
+
+Balance: 97500
+Account Number: 3275
+Amount: 0
+Type: 
+
+Balance: 2.042e+006
+Account Number: 3069
+Amount: 0
+Type: 
+
+Balance: 921000
+Account Number: 3090
+Amount: 0
+Type: 
+
+Balance: 2.787e+006
+Account Number: 3450
+Amount: 0
+Type: 
+
+Balance: 4.305e+006
+Account Number: 3508
+Amount: 0
+Type: 
+
+Balance: 4.197e+006
+Account Number: 3317
+Amount: 0
+Type: 
+
+Balance: 598000
+Account Number: 3496
+Amount: 0
+Type: 
+
+Balance: 2.5275e+006
+Account Number: 3321
+Amount: 0
+Type: 
+
+Balance: 2.093e+006
+Account Number: 3177
+Amount: 0
+Type: 
+
+Balance: 3.6955e+006
+Account Number: 3134
+Amount: 0
+Type: 
+
+Balance: 1.323e+006
+Account Number: 3367
+Amount: 0
+Type: 
+
+Balance: 3.4045e+006
+Account Number: 3135
+Amount: 0
+Type: 
+
+Balance: 4.238e+006
+Account Number: 3399
+Amount: 0
+Type: 
+
+Balance: 1.3055e+006
+Account Number: 3111
+Amount: 0
+Type: 
+
+Balance: 2.0105e+006
+Account Number: 3084
+Amount: 0
+Type: 
+
+Balance: 4.3725e+006
+Account Number: 3410
+Amount: 0
+Type: 
+
+Balance: 2.6955e+006
+Account Number: 3451
+Amount: 0
+Type: 
+
+Balance: 1.3305e+006
+Account Number: 3502
+Amount: 0
+Type: 
+
+Balance: 1.456e+006
+Account Number: 3377
+Amount: 0
+Type: 
+
+Balance: 3.3165e+006
+Account Number: 3266
+Amount: 0
+Type: 
+
+Balance: 620000
+Account Number: 3235
+Amount: 0
+Type: 
+
+Balance: 3.935e+006
+Account Number: 3320
+Amount: 0
+Type: 
+
+Balance: 4.5705e+006
+Account Number: 3097
+Amount: 0
+Type: 
+
+Balance: 191500
+Account Number: 3341
+Amount: 0
+Type: 
+
+Balance: 3.117e+006
+Account Number: 3078
+Amount: 0
+Type: 
+
+Balance: 769000
+Account Number: 3221
+Amount: 0
+Type: 
+
+Balance: 2.2825e+006
+Account Number: 3453
+Amount: 0
+Type: 
+
+Balance: 4.746e+006
+Account Number: 3456
+Amount: 0
+Type: 
+
+Balance: 4.9255e+006
+Account Number: 3401
+Amount: 0
+Type: 
+
+Balance: 4.7865e+006
+Account Number: 3468
+Amount: 0
+Type: 
+
+Balance: 1.696e+006
+Account Number: 3369
+Amount: 0
+Type: 
+
+Balance: 3.979e+006
+Account Number: 3440
+Amount: 0
+Type: 
+
+Balance: 4.425e+006
+Account Number: 3330
+Amount: 0
+Type: 
+
+Balance: 1.838e+006
+Account Number: 3459
+Amount: 0
+Type: 
+
+Balance: 1.2625e+006
+Account Number: 3239
+Amount: 0
+Type: 
+
+Balance: 2.8525e+006
+Account Number: 3386
+Amount: 0
+Type: 
+
+Balance: 1.573e+006
+Account Number: 3163
+Amount: 0
+Type: 
+
+Balance: 4.779e+006
+Account Number: 3426
+Amount: 0
+Type: 
+
+Balance: 487000
+Account Number: 3478
+Amount: 0
+Type: 
+
+Balance: 198000
+Account Number: 3169
+Amount: 0
+Type: 
+
+Balance: 3.2195e+006
+Account Number: 3198
+Amount: 0
+Type: 
+
+Balance: 4.232e+006
+Account Number: 3251
+Amount: 0
+Type: 
+
+Balance: 3.244e+006
+Account Number: 3153
+Amount: 0
+Type: 
+
+Balance: 4.346e+006
+Account Number: 3119
+Amount: 0
+Type: 
+
+Balance: 2.4465e+006
+Account Number: 3218
+Amount: 0
+Type: 
+
+Balance: 3.692e+006
+Account Number: 3178
+Amount: 0
+Type: 
+
+Balance: 4.0885e+006
+Account Number: 3220
+Amount: 0
+Type: 
+
+Balance: 1.6785e+006
+Account Number: 3186
+Amount: 0
+Type: 
+
+Balance: 962000
+Account Number: 3333
+Amount: 0
+Type: 
+
+Balance: 129500
+Account Number: 3206
+Amount: 0
+Type: 
+
+Balance: 2.298e+006
+Account Number: 3443
+Amount: 0
+Type: 
+
+Balance: 1.415e+006
+Account Number: 3061
+Amount: 0
+Type: 
+
+Balance: 3.8555e+006
+Account Number: 3205
+Amount: 0
+Type: 
+
+Balance: 2.5545e+006
+Account Number: 3158
+Amount: 0
+Type: 
+
+Balance: 850500
+Account Number: 3306
+Amount: 0
+Type: 
+
+Balance: 3.5335e+006
+Account Number: 3353
+Amount: 0
+Type: 
+
+Balance: 2.592e+006
+Account Number: 3397
+Amount: 0
+Type: 
+
+Balance: 284000
+Account Number: 3315
+Amount: 0
+Type: 
+
+Balance: 2.4775e+006
+Account Number: 3130
+Amount: 0
+Type: 
+
+Balance: 1.146e+006
+Account Number: 3493
+Amount: 0
+Type: 
+
+Balance: 1.8645e+006
+Account Number: 3365
+Amount: 0
+Type: 
+
+Balance: 1.9705e+006
+Account Number: 3360
+Amount: 0
+Type: 
+
+Balance: 3.863e+006
+Account Number: 3188
+Amount: 0
+Type: 
+
+Balance: 3.95e+006
+Account Number: 3474
+Amount: 0
+Type: 
+
+Balance: 579500
+Account Number: 3477
+Amount: 0
+Type: 
+
+Balance: 1.037e+006
+Account Number: 3350
+Amount: 0
+Type: 
+
+Balance: 839500
+Account Number: 3424
+Amount: 0
+Type: 
+
+Balance: 3.6115e+006
+Account Number: 3345
+Amount: 0
+Type: 
+
+Balance: 3.9075e+006
+Account Number: 3433
+Amount: 0
+Type: 
+
+Balance: 3.8635e+006
+Account Number: 3446
+Amount: 0
+Type: 
+
+Balance: 1.1635e+006
+Account Number: 3071
+Amount: 0
+Type: 
+
+Balance: 1.774e+006
+Account Number: 3259
+Amount: 0
+Type: 
+
+Balance: 3.8025e+006
+Account Number: 3378
+Amount: 0
+Type: 
+
+Balance: 399500
+Account Number: 3485
+Amount: 0
+Type: 
+
+Balance: 4.441e+006
+Account Number: 3432
+Amount: 0
+Type: 
+
+Balance: 1.928e+006
+Account Number: 3303
+Amount: 0
+Type: 
+
+Balance: 2.3405e+006
+Account Number: 3278
+Amount: 0
+Type: 
+
+Balance: 4.12e+006
+Account Number: 3214
+Amount: 0
+Type: 
+
+Balance: 600000
+Account Number: 3195
+Amount: 0
+Type: 
+
+Balance: 1.847e+006
+Account Number: 3287
+Amount: 0
+Type: 
+
+Balance: 623500
+Account Number: 3156
+Amount: 0
+Type: 
+
+Balance: 1.2645e+006
+Account Number: 3208
+Amount: 0
+Type: 
+
+Balance: 760000
+Account Number: 3144
+Amount: 0
+Type: 
+
+Balance: 292500
+Account Number: 3123
+Amount: 0
+Type: 
+
+Balance: 4.7515e+006
+Account Number: 3384
+Amount: 0
+Type: 
+
+Balance: 2.115e+006
+Account Number: 3355
+Amount: 0
+Type: 
+
+Balance: 1.299e+006
+Account Number: 3052
+Amount: 0
+Type: 
+
+Balance: 245500
+Account Number: 3289
+Amount: 0
+Type: 
+
+Balance: 2.972e+006
+Account Number: 3395
+Amount: 0
+Type: 
+
+Balance: 639000
+Account Number: 3230
+Amount: 0
+Type: 
+
+Balance: 1.2415e+006
+Account Number: 3058
+Amount: 0
+Type: 
+
+Balance: 863000
+Account Number: 3394
+Amount: 0
+Type: 
+
+Balance: 4.732e+006
+Account Number: 3296
+Amount: 0
+Type: 
+
+Balance: 3.5515e+006
+Account Number: 3325
+Amount: 0
+Type: 
+
+Balance: 2.128e+006
+Account Number: 3246
+Amount: 0
+Type: 
+
+Balance: 4.2215e+006
+Account Number: 3120
+Amount: 0
+Type: 
+
+Balance: 778000
+Account Number: 3105
+Amount: 0
+Type: 
+
+Balance: 827500
+Account Number: 3455
+Amount: 0
+Type: 
+
+Balance: 4.626e+006
+Account Number: 3417
+Amount: 0
+Type: 
+
+Balance: 97500
+Account Number: 3275
+Amount: 0
+Type: 
+
+Balance: 2.042e+006
+Account Number: 3069
+Amount: 0
+Type: 
+
+Balance: 921000
+Account Number: 3090
+Amount: 0
+Type: 
+
+Balance: 2.787e+006
+Account Number: 3450
+Amount: 0
+Type: 
+
+Balance: 4.305e+006
+Account Number: 3508
+Amount: 0
+Type: 
+
+Balance: 4.197e+006
+Account Number: 3317
+Amount: 0
+Type: 
+
+Balance: 598000
+Account Number: 3496
+Amount: 0
+Type: 
+
+Balance: 2.5275e+006
+Account Number: 3321
+Amount: 0
+Type: 
+
+Balance: 2.093e+006
+Account Number: 3177
+Amount: 0
+Type: 
+
+Balance: 3.6955e+006
+Account Number: 3134
+Amount: 0
+Type: 
+
+Balance: 1.323e+006
+Account Number: 3367
+Amount: 0
+Type: 
+
+Balance: 3.4045e+006
+Account Number: 3135
+Amount: 0
+Type: 
+
+Balance: 4.238e+006
+Account Number: 3399
+Amount: 0
+Type: 
+
+Balance: 1.3055e+006
+Account Number: 3111
+Amount: 0
+Type: 
+
+Balance: 2.0105e+006
+Account Number: 3084
+Amount: 0
+Type: 
+
+Balance: 4.3725e+006
+Account Number: 3410
+Amount: 0
+Type: 
+
+Balance: 2.6955e+006
+Account Number: 3451
+Amount: 0
+Type: 
+
+Balance: 1.3305e+006
+Account Number: 3502
+Amount: 0
+Type: 
+
+Balance: 1.456e+006
+Account Number: 3377
+Amount: 0
+Type: 
+
+Balance: 3.3165e+006
+Account Number: 3266
+Amount: 0
+Type: 
+
+Balance: 620000
+Account Number: 3235
+Amount: 0
+Type: 
+
+Balance: 3.935e+006
+Account Number: 3320
+Amount: 0
+Type: 
+
+Balance: 4.5705e+006
+Account Number: 3097
+Amount: 0
+Type: 
+
+Balance: 191500
+Account Number: 3341
+Amount: 0
+Type: 
+
+Balance: 3.117e+006
+Account Number: 3078
+Amount: 0
+Type: 
+
+Balance: 769000
+Account Number: 3221
+Amount: 0
+Type: 
+
+Balance: 2.2825e+006
+Account Number: 3453
+Amount: 0
+Type: 
+
+Balance: 4.746e+006
+Account Number: 3456
+Amount: 0
+Type: 
+
+Balance: 4.9255e+006
+Account Number: 3401
+Amount: 0
+Type: 
+
+Balance: 4.7865e+006
+Account Number: 3468
+Amount: 0
+Type: 
+
+Balance: 1.696e+006
+Account Number: 3369
+Amount: 0
+Type: 
+
+Balance: 3.979e+006
+Account Number: 3440
+Amount: 0
+Type: 
+
+Balance: 4.425e+006
+Account Number: 3330
+Amount: 0
+Type: 
+
+Balance: 1.838e+006
+Account Number: 3459
+Amount: 0
+Type: 
+
+Balance: 1.2625e+006
+Account Number: 3239
+Amount: 0
+Type: 
+
+Balance: 2.8525e+006
+Account Number: 3386
+Amount: 0
+Type: 
+
+Balance: 1.573e+006
+Account Number: 3163
+Amount: 0
+Type: 
+
+Balance: 4.779e+006
+Account Number: 3426
+Amount: 0
+Type: 
+
+Balance: 487000
+Account Number: 3478
+Amount: 0
+Type: 
+
+Balance: 198000
+Account Number: 3169
+Amount: 0
+Type: 
+
+Balance: 3.2195e+006
+Account Number: 3198
+Amount: 0
+Type: 
+
+Balance: 4.232e+006
+Account Number: 3251
+Amount: 0
+Type: 
+
+Balance: 3.244e+006
+Account Number: 3153
+Amount: 0
+Type: 
+
+Balance: 4.346e+006
+Account Number: 3119
+Amount: 0
+Type: 
+
+Balance: 2.4465e+006
+Account Number: 3218
+Amount: 0
+Type: 
+
+Balance: 3.692e+006
+Account Number: 3178
+Amount: 0
+Type: 
+
+Balance: 4.0885e+006
+Account Number: 3220
+Amount: 0
+Type: 
+
+Balance: 1.6785e+006
+Account Number: 3186
+Amount: 0
+Type: 
+
+Balance: 962000
+Account Number: 3333
+Amount: 0
+Type: 
+
+Balance: 129500
+Account Number: 3206
+Amount: 0
+Type: 
+
+Balance: 2.298e+006
+Account Number: 3443
+Amount: 0
+Type: 
+
+Balance: 1.415e+006
+Account Number: 3061
+Amount: 0
+Type: 
+
+Balance: 3.8555e+006
+Account Number: 3205
+Amount: 0
+Type: 
+
+Balance: 2.5545e+006
+Account Number: 3158
+Amount: 0
+Type: 
+
+Balance: 850500
+Account Number: 3306
+Amount: 0
+Type: 
+
+Balance: 3.5335e+006
+Account Number: 3353
+Amount: 0
+Type: 
+
+Balance: 2.592e+006
+Account Number: 3397
+Amount: 0
+Type: 
+
+Balance: 284000
+Account Number: 3315
+Amount: 0
+Type: 
+
+Balance: 2.4775e+006
+Account Number: 3130
+Amount: 0
+Type: 
+
+Balance: 1.146e+006
+Account Number: 3493
+Amount: 0
+Type: 
+
+Balance: 1.8645e+006
+Account Number: 3365
+Amount: 0
+Type: 
+
+Balance: 1.9705e+006
+Account Number: 3360
+Amount: 0
+Type: 
+
+Balance: 3.863e+006
+Account Number: 3188
+Amount: 0
+Type: 
+
+Balance: 3.95e+006
+Account Number: 3474
+Amount: 0
+Type: 
+
+Balance: 579500
+Account Number: 3477
+Amount: 0
+Type: 
+
+Balance: 1.037e+006
+Account Number: 3350
+Amount: 0
+Type: 
+
+Balance: 839500
+Account Number: 3424
+Amount: 0
+Type: 
+
+Balance: 3.6115e+006
+Account Number: 3345
+Amount: 0
+Type: 
+
+Balance: 3.9075e+006
+Account Number: 3433
+Amount: 0
+Type: 
+
+Balance: 3.8635e+006
+Account Number: 3446
+Amount: 0
+Type: 
+
+Balance: 1.1635e+006
+Account Number: 3071
+Amount: 0
+Type: 
+
+Balance: 1.774e+006
+Account Number: 3259
+Amount: 0
+Type: 
+
+Balance: 3.8025e+006
+Account Number: 3378
+Amount: 0
+Type: 
+
+Balance: 399500
+Account Number: 3485
+Amount: 0
+Type: 
+
+Balance: 4.441e+006
+Account Number: 3432
+Amount: 0
+Type: 
+
+Balance: 1.928e+006
+Account Number: 3303
+Amount: 0
+Type: 
+
+Balance: 2.3405e+006
+Account Number: 3278
+Amount: 0
+Type: 
+
+Balance: 4.12e+006
+Account Number: 3214
+Amount: 0
+Type: 
+
+Balance: 600000
+Account Number: 3195
+Amount: 0
+Type: 
+
+Balance: 1.847e+006
+Account Number: 3287
+Amount: 0
+Type: 
+
+Balance: 623500
+Account Number: 3156
+Amount: 0
+Type: 
+
+Balance: 1.2645e+006
+Account Number: 3208
+Amount: 0
+Type: 
+
+Balance: 760000
+Account Number: 3144
+Amount: 0
+Type: 
+
+Balance: 292500
+Account Number: 3123
+Amount: 0
+Type: 
+
+Balance: 4.7515e+006
+Account Number: 3384
+Amount: 0
+Type: 
+
+Balance: 2.115e+006
+Account Number: 3355
+Amount: 0
+Type: 
+
+Balance: 1.299e+006
+Account Number: 3052
+Amount: 0
+Type: 
+
+Balance: 245500
+Account Number: 3289
+Amount: 0
+Type: 
+
+Balance: 2.972e+006
+Account Number: 3395
+Amount: 0
+Type: 
+
+Balance: 639000
+Account Number: 3230
+Amount: 0
+Type: 
+
+Balance: 1.2415e+006
+Account Number: 3058
+Amount: 0
+Type: 
+
+Balance: 863000
+Account Number: 3394
+Amount: 0
+Type: 
+
+Balance: 4.732e+006
+Account Number: 3296
+Amount: 0
+Type: 
+
+Balance: 3.5515e+006
+Account Number: 3325
+Amount: 0
+Type: 
+
+Balance: 2.128e+006
+Account Number: 3246
+Amount: 0
+Type: 
+
+Balance: 4.2215e+006
+Account Number: 3120
+Amount: 0
+Type: 
+
+Balance: 778000
+Account Number: 3105
+Amount: 0
+Type: 
+
+Balance: 827500
+Account Number: 3455
+Amount: 0
+Type: 
+
+Balance: 4.626e+006
+Account Number: 3417
+Amount: 0
+Type: 
+
+Balance: 97500
+Account Number: 3275
+Amount: 0
+Type: 
+
+Balance: 2.042e+006
+Account Number: 3069
+Amount: 0
+Type: 
+
+Balance: 921000
+Account Number: 3090
+Amount: 0
+Type: 
+
+Balance: 2.787e+006
+Account Number: 3450
+Amount: 0
+Type: 
+
+Balance: 4.305e+006
+Account Number: 3508
+Amount: 0
+Type: 
+
+Balance: 4.197e+006
+Account Number: 3317
+Amount: 0
+Type: 
+
+Balance: 598000
+Account Number: 3496
+Amount: 0
+Type: 
+
+Balance: 2.5275e+006
+Account Number: 3321
+Amount: 0
+Type: 
+
+Balance: 2.093e+006
+Account Number: 3177
+Amount: 0
+Type: 
+
+Balance: 3.6955e+006
+Account Number: 3134
+Amount: 0
+Type: 
+
+Balance: 1.323e+006
+Account Number: 3367
+Amount: 0
+Type: 
+
+Balance: 3.4045e+006
+Account Number: 3135
+Amount: 0
+Type: 
+
+Balance: 4.238e+006
+Account Number: 3399
+Amount: 0
+Type: 
+
+Balance: 1.3055e+006
+Account Number: 3111
+Amount: 0
+Type: 
+
+Balance: 2.0105e+006
+Account Number: 3084
+Amount: 0
+Type: 
+
+Balance: 4.3725e+006
+Account Number: 3410
+Amount: 0
+Type: 
+
+Balance: 2.6955e+006
+Account Number: 3451
+Amount: 0
+Type: 
+
+Balance: 1.3305e+006
+Account Number: 3502
+Amount: 0
+Type: 
+
+Balance: 1.456e+006
+Account Number: 3377
+Amount: 0
+Type: 
+
+Balance: 3.3165e+006
+Account Number: 3266
+Amount: 0
+Type: 
+
+Balance: 620000
+Account Number: 3235
+Amount: 0
+Type: 
+
+Balance: 3.935e+006
+Account Number: 3320
+Amount: 0
+Type: 
+
+Balance: 4.5705e+006
+Account Number: 3097
+Amount: 0
+Type: 
+
+Balance: 191500
+Account Number: 3341
+Amount: 0
+Type: 
+
+Balance: 3.117e+006
+Account Number: 3078
+Amount: 0
+Type: 
+
+Balance: 769000
+Account Number: 3221
+Amount: 0
+Type: 
+
+Balance: 2.2825e+006
+Account Number: 3453
+Amount: 0
+Type: 
+
+Balance: 4.746e+006
+Account Number: 3456
+Amount: 0
+Type: 
+
+Balance: 4.9255e+006
+Account Number: 3401
+Amount: 0
+Type: 
+
+Balance: 4.7865e+006
+Account Number: 3468
+Amount: 0
+Type: 
+
+Balance: 1.696e+006
+Account Number: 3369
+Amount: 0
+Type: 
+
+Balance: 3.979e+006
+Account Number: 3440
+Amount: 0
+Type: 
+
+Balance: 4.425e+006
+Account Number: 3330
+Amount: 0
+Type: 
+
+Balance: 1.838e+006
+Account Number: 3459
+Amount: 0
+Type: 
+
+Balance: 1.2625e+006
+Account Number: 3239
+Amount: 0
+Type: 
+
+Balance: 2.8525e+006
+Account Number: 3386
+Amount: 0
+Type: 
+
+Balance: 1.573e+006
+Account Number: 3163
+Amount: 0
+Type: 
+
+Balance: 4.779e+006
+Account Number: 3426
+Amount: 0
+Type: 
+
+Balance: 487000
+Account Number: 3478
+Amount: 0
+Type: 
+
+Balance: 198000
+Account Number: 3169
+Amount: 0
+Type: 
+
+Balance: 3.2195e+006
+Account Number: 3198
+Amount: 0
+Type: 
+
+Balance: 4.232e+006
+Account Number: 3251
+Amount: 0
+Type: 
+
+Balance: 3.244e+006
+Account Number: 3153
+Amount: 0
+Type: 
+
+Balance: 4.346e+006
+Account Number: 3119
+Amount: 500
+Type: Withdrawal
+
+Balance: 2.446e+006

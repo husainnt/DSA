@@ -1,0 +1,10 @@
+Sami	25
+Alice	30
+Michael 	22
+Emm        28
+Jacob	35
+Sophia 	27
+William 	29
+Olivia 	31
+Ethan	26
+Ava 	32
