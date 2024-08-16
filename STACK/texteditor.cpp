@@ -1,10 +1,21 @@
-// A Text-Editor in C++ using the Stack Data Structure
 #include <iostream>
 #include <string>
 #include <stack>
 #include <fstream>
+#include <chrono>
+#include <thread>
 
 using namespace std;
+
+// ANSI color codes
+const string RESET = "\033[0m";
+const string RED = "\033[31m";
+const string GREEN = "\033[32m";
+const string YELLOW = "\033[33m";
+const string BLUE = "\033[34m";
+const string MAGENTA = "\033[35m";
+const string CYAN = "\033[36m";
+const string WHITE = "\033[37m";
 
 class Instruction
 {
@@ -43,9 +54,7 @@ TextEditor::TextEditor()
 void TextEditor::insertText(const string &text)
 {
     content += text;
-
     undoStack.push(Instruction("INSERT", text));
-
     while (!redoStack.empty())
         redoStack.pop();
 }
@@ -54,15 +63,13 @@ void TextEditor::deleteText(int length)
 {
     if (length < 0 || length > content.length())
     {
-        cout << "Invalid length!" << endl;
+        cout << RED << "Invalid length!" << RESET << endl;
         return;
     }
 
     string deletedText = content.substr(content.length() - length, length);
     content.erase(content.length() - length, length);
-
     undoStack.push(Instruction("DELETE", deletedText));
-
     while (!redoStack.empty())
         redoStack.pop();
 }
@@ -71,7 +78,7 @@ void TextEditor::undo()
 {
     if (undoStack.empty())
     {
-        cout << "Nothing to undo!" << endl;
+        cout << RED << "Nothing to undo!" << RESET << endl;
         return;
     }
 
@@ -94,7 +101,7 @@ void TextEditor::redo()
 {
     if (redoStack.empty())
     {
-        cout << "Nothing to redo!" << endl;
+        cout << RED << "Nothing to redo!" << RESET << endl;
         return;
     }
 
@@ -120,11 +127,11 @@ void TextEditor::saveToFile(const string &filename)
     {
         outFile << content;
         outFile.close();
-        cout << "File saved successfully!" << endl;
+        cout << GREEN << "File saved successfully!" << RESET << endl;
     }
     else
     {
-        cout << "Error opening file!" << endl;
+        cout << RED << "Error opening file!" << RESET << endl;
     }
 }
 
@@ -140,34 +147,48 @@ void TextEditor::openFromFile(const string &filename)
         content.resize(size);
         inFile.read(&content[0], size);
         inFile.close();
-        cout << "File opened successfully!" << endl;
+        cout << GREEN << "File opened successfully!" << RESET << endl;
     }
     else
     {
-        cout << "Error opening file!" << endl;
+        cout << RED << "Error opening file!" << RESET << endl;
     }
 }
 
 void TextEditor::displayContent() const
 {
-    cout << "Current Content:\n"
+    cout << CYAN << "Current Content:\n"
+         << RESET
          << content << endl;
+}
+
+void displayLoadingScreen()
+{
+    cout << BLUE << "Loading" << RESET;
+    for (int i = 0; i < 3; ++i)
+    {
+        this_thread::sleep_for(chrono::milliseconds(500));
+        cout << ".";
+        cout.flush();
+    }
+    cout << endl;
 }
 
 int main()
 {
+    displayLoadingScreen();
     TextEditor editor;
     string command;
 
     while (true)
     {
-        cout << "Enter a command (insert, delete, undo, redo, save, open, exit): ";
+        cout << MAGENTA << "Enter a command (insert, delete, undo, redo, save, open, exit): " << RESET;
         cin >> command;
 
         if (command == "insert")
         {
             string text;
-            cout << "Enter text to insert: ";
+            cout << YELLOW << "Enter text to insert: " << RESET;
             cin.ignore();
             getline(cin, text);
             editor.insertText(text);
@@ -175,7 +196,7 @@ int main()
         else if (command == "delete")
         {
             int length;
-            cout << "Enter length to delete (including spaces): ";
+            cout << YELLOW << "Enter length to delete (including spaces): " << RESET;
             cin >> length;
             editor.deleteText(length);
         }
@@ -190,14 +211,14 @@ int main()
         else if (command == "save")
         {
             string filename;
-            cout << "Enter filename: ";
+            cout << YELLOW << "Enter filename: " << RESET;
             cin >> filename;
             editor.saveToFile(filename);
         }
         else if (command == "open")
         {
             string filename;
-            cout << "Enter filename: ";
+            cout << YELLOW << "Enter filename: " << RESET;
             cin >> filename;
             editor.openFromFile(filename);
         }
