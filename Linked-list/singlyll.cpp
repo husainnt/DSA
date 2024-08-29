@@ -25,9 +25,9 @@ public:
     LinkedList() : head(nullptr), tail(nullptr), size(0) {}
 
     // Copy Constructor
-    LinkedList(const LinkedList &other) : head(nullptr), tail(nullptr), size(0)
+    LinkedList(const LinkedList &obj) : head(nullptr), tail(nullptr), size(0)
     {
-        Node *current = other.head;
+        Node *current = obj.head;
         while (current != nullptr)
         {
             insertAtEnd(current->data);
@@ -47,9 +47,9 @@ public:
     }
 
     // Assignment Operator Overload
-    LinkedList &operator=(const LinkedList &other)
+    LinkedList &operator=(const LinkedList &obj)
     {
-        if (this != &other)
+        if (this != &obj)
         {
             // Delete existing nodes
             while (head != nullptr)
@@ -63,7 +63,7 @@ public:
             size = 0;
 
             // Copy nodes from the other list
-            Node *current = other.head;
+            Node *current = obj.head;
             while (current != nullptr)
             {
                 insertAtEnd(current->data);
@@ -261,19 +261,19 @@ public:
 
 int main()
 {
-    LinkedList list;
-    list.insertAtEnd(1);
-    list.insertAtEnd(2);
-    list.insertAtEnd(3);
-    list.insertAtEnd(4);
-    list.display();
+    LinkedList l1;
+    l1.insertAtEnd(1);
+    l1.insertAtEnd(2);
+    l1.insertAtEnd(3);
+    l1.insertAtEnd(4);
+    l1.display();
 
-    LinkedList copyList = list; // Calls copy constructor
-    copyList.display();
+    LinkedList l2(l1); // Calls copy constructor
+    l2.display();
 
-    LinkedList assignedList;
-    assignedList = list; // Calls assignment operator
-    assignedList.display();
+    LinkedList l3;
+    l3 = l1; // Calls assignment operator
+    l3.display();
 
     return 0;
 }
