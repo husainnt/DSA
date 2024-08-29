@@ -22,11 +22,55 @@ private:
     int size;
 
 public:
-    LinkedList()
+    LinkedList() : head(nullptr), tail(nullptr), size(0) {}
+
+    // Copy Constructor
+    LinkedList(const LinkedList &other) : head(nullptr), tail(nullptr), size(0)
     {
-        head = nullptr;
-        tail = nullptr;
-        size = 0;
+        Node *current = other.head;
+        while (current != nullptr)
+        {
+            insertAtEnd(current->data);
+            current = current->next;
+        }
+    }
+
+    // Destructor
+    ~LinkedList()
+    {
+        while (head != nullptr)
+        {
+            Node *temp = head;
+            head = head->next;
+            delete temp;
+        }
+    }
+
+    // Assignment Operator Overload
+    LinkedList &operator=(const LinkedList &other)
+    {
+        if (this != &other)
+        {
+            // Delete existing nodes
+            while (head != nullptr)
+            {
+                Node *temp = head;
+                head = head->next;
+                delete temp;
+            }
+            head = nullptr;
+            tail = nullptr;
+            size = 0;
+
+            // Copy nodes from the other list
+            Node *current = other.head;
+            while (current != nullptr)
+            {
+                insertAtEnd(current->data);
+                current = current->next;
+            }
+        }
+        return *this;
     }
 
     void insertAtStart(int data)
@@ -183,24 +227,22 @@ public:
         cout << "Last Node: " << last->data << endl;
     }
 
-    // Function to update the data at a specific position in the linked list
     void updateAtPosition(int data, int position)
     {
-        if (position < 0 || position >= size) // Check if the position is valid
+        if (position < 0 || position >= size)
         {
             cout << "Invalid position\n";
             return;
         }
 
-        Node *temp = head;                 // Start from the head of the list
-        for (int i = 0; i < position; i++) // Traverse to the node at the given position
+        Node *temp = head;
+        for (int i = 0; i < position; i++)
         {
             temp = temp->next;
         }
-        temp->data = data; // Update the data of the node
+        temp->data = data;
     }
 
-    // Function to reverse the linked list
     void reverse()
     {
         Node *prev = nullptr;
@@ -208,12 +250,12 @@ public:
         Node *next = nullptr;
         while (current != nullptr)
         {
-            next = current->next; // Store next node
-            current->next = prev; // Reverse current node's pointer
-            prev = current;       // Move pointers one position ahead
+            next = current->next;
+            current->next = prev;
+            prev = current;
             current = next;
         }
-        head = prev; // Update head to the new first node
+        head = prev;
     }
 };
 
@@ -226,40 +268,12 @@ int main()
     list.insertAtEnd(4);
     list.display();
 
-    list.insertAtStart(0);
-    list.display();
+    LinkedList copyList = list; // Calls copy constructor
+    copyList.display();
 
-    list.insertAtPosition(5, 5);
-    list.insertAtPosition(10, 0);
-    list.insertAtPosition(7, 3);
-    list.display();
-
-    list.deleteAtPosition(6);
-    list.deleteAtPosition(0);
-    list.deleteAtPosition(5);
-    list.deleteAtPosition(2);
-    list.display();
-
-    cout << "Size of list: " << list.getSize() << endl;
-
-    int searchData = 2;
-    int position = list.search(searchData);
-    if (position != -1)
-    {
-        cout << "Found " << searchData << " at position " << position << endl;
-    }
-    else
-    {
-        cout << searchData << " not found\n";
-    }
-
-    list.displayFirstMiddleLast();
-
-    list.updateAtPosition(15, 2); // Update data at position 2
-    list.display();
-
-    list.reverse(); // Reverse the linked list
-    list.display();
+    LinkedList assignedList;
+    assignedList = list; // Calls assignment operator
+    assignedList.display();
 
     return 0;
 }

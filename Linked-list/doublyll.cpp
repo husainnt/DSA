@@ -24,11 +24,69 @@ private:
     int size;
 
 public:
+    // Constructor
     DoublyLinkedList()
     {
         head = nullptr;
         tail = nullptr;
         size = 0;
+    }
+
+    // Copy Constructor
+    DoublyLinkedList(const DoublyLinkedList &other)
+    {
+        head = nullptr;
+        tail = nullptr;
+        size = 0;
+
+        Node *current = other.head;
+        while (current != nullptr)
+        {
+            insertAtEnd(current->data); // Insert copied data at the end
+            current = current->next;
+        }
+    }
+
+    // Destructor
+    ~DoublyLinkedList()
+    {
+        Node *current = head;
+        while (current != nullptr)
+        {
+            Node *temp = current;
+            current = current->next;
+            delete temp;
+        }
+    }
+
+    // Assignment Operator Overload
+    DoublyLinkedList &operator=(const DoublyLinkedList &other)
+    {
+        if (this == &other)
+            return *this; // Check for self-assignment
+
+        // Deallocate existing list
+        Node *current = head;
+        while (current != nullptr)
+        {
+            Node *temp = current;
+            current = current->next;
+            delete temp;
+        }
+
+        head = nullptr;
+        tail = nullptr;
+        size = 0;
+
+        // Copy the list from 'other'
+        current = other.head;
+        while (current != nullptr)
+        {
+            insertAtEnd(current->data);
+            current = current->next;
+        }
+
+        return *this;
     }
 
     void insertAtStart(int data)
@@ -201,38 +259,36 @@ public:
         cout << "Last Node: " << last->data << endl;
     }
 
-    // Function to update the data at a specific position in the doubly linked list
     void updateAtPosition(int data, int position)
     {
-        if (position < 0 || position >= size) // Check if the position is valid
+        if (position < 0 || position >= size)
         {
             cout << "Invalid position\n";
             return;
         }
 
-        Node *temp = head;                 // Start from the head of the list
-        for (int i = 0; i < position; i++) // Traverse to the node at the given position
+        Node *temp = head;
+        for (int i = 0; i < position; i++)
         {
             temp = temp->next;
         }
-        temp->data = data; // Update the data of the node
+        temp->data = data;
     }
 
-    // Function to reverse the doubly linked list
     void reverse()
     {
         Node *current = head;
         Node *temp = nullptr;
         while (current != nullptr)
         {
-            temp = current->prev; // Swap prev and next pointers
+            temp = current->prev;
             current->prev = current->next;
             current->next = temp;
             current = current->prev;
         }
         if (temp != nullptr)
         {
-            head = temp->prev; // Update head to the new first node
+            head = temp->prev;
         }
     }
 };
@@ -246,40 +302,12 @@ int main()
     list.insertAtEnd(4);
     list.display();
 
-    list.insertAtStart(0);
-    list.display();
+    DoublyLinkedList copyList = list; // Copy constructor
+    copyList.display();
 
-    list.insertAtPosition(5, 5);
-    list.insertAtPosition(10, 0);
-    list.insertAtPosition(7, 3);
-    list.display();
-
-    list.deleteAtPosition(6);
-    list.deleteAtPosition(0);
-    list.deleteAtPosition(5);
-    list.deleteAtPosition(2);
-    list.display();
-
-    cout << "Size of list: " << list.getSize() << endl;
-
-    int searchData = 2;
-    int position = list.search(searchData);
-    if (position != -1)
-    {
-        cout << "Found " << searchData << " at position " << position << endl;
-    }
-    else
-    {
-        cout << searchData << " not found\n";
-    }
-
-    list.displayFirstMiddleLast();
-
-    list.updateAtPosition(15, 2); // Update data at position 2
-    list.display();
-
-    list.reverse(); // Reverse the doubly linked list
-    list.display();
+    DoublyLinkedList assignedList;
+    assignedList = list; // Assignment operator
+    assignedList.display();
 
     return 0;
 }
