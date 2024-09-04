@@ -24,7 +24,6 @@ private:
 public:
     LinkedList() : head(nullptr), tail(nullptr), size(0) {}
 
-    // Copy Constructor
     LinkedList(const LinkedList &obj) : head(nullptr), tail(nullptr), size(0)
     {
         Node *current = obj.head;
@@ -35,7 +34,6 @@ public:
         }
     }
 
-    // Destructor
     ~LinkedList()
     {
         while (head != nullptr)
@@ -46,12 +44,11 @@ public:
         }
     }
 
-    // Assignment Operator Overload
     LinkedList &operator=(const LinkedList &obj)
     {
         if (this != &obj)
         {
-            // Delete existing nodes
+
             while (head != nullptr)
             {
                 Node *temp = head;
@@ -62,7 +59,6 @@ public:
             tail = nullptr;
             size = 0;
 
-            // Copy nodes from the other list
             Node *current = obj.head;
             while (current != nullptr)
             {
@@ -263,17 +259,11 @@ int main()
 {
     LinkedList l1;
     l1.insertAtEnd(1);
-    l1.insertAtEnd(2);
     l1.insertAtEnd(3);
     l1.insertAtEnd(4);
+    l1.insertAtEnd(5);
+    l1.insertAtPosition(2, 1);
     l1.display();
-
-    LinkedList l2(l1); // Calls copy constructor
-    l2.display();
-
-    LinkedList l3;
-    l3 = l1; // Calls assignment operator
-    l3.display();
 
     return 0;
 }
