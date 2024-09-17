@@ -9,7 +9,7 @@ bool isvalid(string expression)
     for (int i = 0; i < expression.length(); i++)
     {
         char ch = expression[i];
-        // If opening bracket
+        
         if (ch == '[' || ch == '{' || ch == '(')
         {
             s.push(ch);
@@ -27,7 +27,7 @@ bool isvalid(string expression)
             s.pop();
         }
     }
-    // If stack is empty, all opening brackets had matching closing brackets
+    
     return s.empty();
 }
 
