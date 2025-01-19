@@ -72,14 +72,14 @@ void Huffman::decode(Node *root, int &idx, string str)
 
 void Huffman::build_huff(string str)
 {
-    // Step 1: Count frequencies of each character
+    
     unordered_map<char, int> freq;
     for (char ch : str)
     {
         freq[ch]++;
     }
 
-    // Step 2: Create a priority queue (min-heap)
+
     priority_queue<Node *, vector<Node *>, Compare> pq;
 
     for (auto pair : freq)
@@ -87,7 +87,7 @@ void Huffman::build_huff(string str)
         pq.push(new Node(pair.first, pair.second));
     }
 
-    // Step 3: Build the Huffman tree
+  
     while (pq.size() > 1)
     {
         Node *left = pq.top();
@@ -99,10 +99,10 @@ void Huffman::build_huff(string str)
         pq.push(new Node('\0', sum, left, right));
     }
 
-    // The root of the tree
+    
     root = pq.top();
 
-    // Step 4: Generate Huffman codes
+    
     unordered_map<char, string> huffcode;
     encode(root, "", huffcode);
 
@@ -112,7 +112,7 @@ void Huffman::build_huff(string str)
         cout << pair.first << " -> " << pair.second << "\n";
     }
 
-    // Step 5: Encode the input string
+
     string encodedString = "";
     for (char ch : str)
     {
@@ -121,7 +121,7 @@ void Huffman::build_huff(string str)
 
     cout << "Encoded string: " << encodedString << "\n";
 
-    // Step 6: Decode the encoded string
+    
     cout << "Decoded string: ";
     int idx = -1;
     while (idx < (int)encodedString.size() - 1)
