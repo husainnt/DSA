@@ -1,4 +1,4 @@
-// ussain Tahir, 22i - 1838, Sec : B, OOP A - 04
+// Hussain Tahir, 22i - 1838, Sec : B, OOP A - 04
 #include <iostream>
 #include <string>
 #include "LinkedList.h"
